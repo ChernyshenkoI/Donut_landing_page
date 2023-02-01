@@ -1,0 +1,23 @@
+body {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+
+  background: linear-gradient(
+    180.11deg,
+    #e5e2e3 10.73%,
+    #fdfefe 38.02%,
+    #e5e2e3 71.11%,
+    #fdfefe 99.91%
+  );
+}
+
+// a {
+//   &:hover {
+//     transition: color $time-hover $time-function,
+//       fill $time-hover $time-function,
+//       background-color $time-hover $time-function,
+//       border-color $time-hover $time-function;
+//   }
+// }
